@@ -1,0 +1,35 @@
+---
+key: Tecnologia Civica
+title: Tecnologia Civica
+lat: 44.719194 
+long: 10.305708
+
+# translations for titles
+meetings_title: 
+contacts_title: 
+
+# If you need to include a link in this texts, don't forget to add  "target='_blank' rel='noreferrer'". Otherwise link will be removed.
+meetings:
+
+# multiple contacts possible
+# - name: name of contact
+#   url: email address or url of contact form
+contacts:
+- name: Filo.
+  url: mailto:tecnologia.civica@protonmail.ch
+
+
+# leave empty if non-existent
+# Twitter and Telegram: account name without @ sign
+website: 
+facebook:
+facebook_group:
+facebook_page:
+github:
+gitlab:
+instagram:
+mastodon: https://fosstodon.org/@tecnologiacivica
+meetup:
+telegram:
+telegram_group:
+twitter: TecnologiaCivi1
